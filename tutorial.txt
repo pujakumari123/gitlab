@@ -1,3 +1,4 @@
 GitHub is a Git repository hosting service. GitHub also facilitates with many of its features, such as access control and collaboration. It provides a Web-based graphical interface.
 
 GitHub is an American company. It hosts source code of your project in the form of different programming languages and keeps track of the various changes made by programmers.
+GitHub is a place where programmers and designers work together. They collaborate, contribute, and fix bugs together. It hosts plenty of open source projects and codes of various programming languages.
