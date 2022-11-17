@@ -1,0 +1,6 @@
+puja=30
+dudo=40
+bubu=80
+gomu=45
+pichu=20
+
